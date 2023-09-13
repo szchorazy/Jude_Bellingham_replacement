@@ -9,7 +9,7 @@ The machine learning model was made using the k-means algorithm in Python.
 
 
 For the project, I used data from the FbRef website for the 2022/2023 season. I performed web scraping to download the data from the site, and then I modelled it appropriately. In the next step, I decided to use the k-means algorithm and the percentage similarity of players in the cluster I was interested in to select the players. From the 20 most similar players to Jude Bellingham, I selected 5 players for further analysis:
-Maxence Caqueret Enzo Le Fée Lazar Samardzic Tijjani Reijnders Kenneth Taylor
+Maxence Caqueret, Enzo Le Fée, Lazar Samardzic, Tijjani Reijnders and Kenneth Taylor.
 I made the selection based on their market value, age and the quality of the team they play for. I also compared the players that Borussia bought in the summer transfer window of 2023 to replace Jude Bellingham, which are Felix Nmecha and Marcel Sabitzer.
 
 
